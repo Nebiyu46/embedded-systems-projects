@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\blink.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\Display Hello\hello_world.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\interrupt\interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\First\Me_Trying.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\NoiseFilter\NoiseFilter.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\teachLCD.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\tempInclass\tempInclass.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

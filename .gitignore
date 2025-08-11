@@ -1,0 +1,64 @@
+# IAR Embedded Workbench
+*.pbd
+*.pbd.browse
+*.pbw
+*.pbi
+*.pbi.dep
+*.xcl
+Debug/
+Release/
+settings/
+*.wsdt
+*.dni
+*.dep
+*.ewd
+*.ewt
+*_build_cache
+.ninja_deps
+.ninja_log
+
+# Build outputs
+*.hex
+*.out
+*.out_nochecksum
+*.map
+*.o
+*.o.rsp
+
+# Backup files
+Backup of *
+*.bak
+*~
+
+# IDE specific
+*.crun
+*.dbgdt
+*.cspy.bat
+*.cspy.ps1
+*.driver.xcl
+*.general.xcl
+*.dnx
+*.reggroups
+
+# Keil uVision
+*.uvopt
+*.uvproj.*
+*.plg
+*.tra
+*.htm
+Objects/
+Listings/
+
+# Code Composer Studio
+.ccsproject
+.cproject
+.project
+.settings/
+Debug/
+Release/
+
+# General
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
